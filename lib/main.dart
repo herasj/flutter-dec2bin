@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       title: 'Conversor',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Conversor'),
+          title: Text('Conversor Dec2Bin'),
         ),
         body: Center(
           child: Input(),
