@@ -1,3 +1,5 @@
 # Dec2Bin
 
-**Funcionamiento:** https://youtu.be/eMYJKVwAfiI
+**UI:** https://youtu.be/P_VouVuuw88
+
+**Codigo:** https://youtu.be/rUFG9HdEN2w
